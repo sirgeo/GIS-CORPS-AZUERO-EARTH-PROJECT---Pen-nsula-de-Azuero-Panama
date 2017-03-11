@@ -1,0 +1,5 @@
+I recently helped develop a project to digitize tree cover in Panama’s Azuero Peninsula volunteering with GISCorps.
+
+I designed an automatic digitization protocol for the landscape using machine learning algorithms to segment tree crowns with comparable accuracy to human digitizers. 
+
+I complied a workflow using open access software (QGIS, Google Earth Pro, and Orfeo). The open source software enables a broad audience of users to perform Object Based Image Analysis.
